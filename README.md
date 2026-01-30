@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Fixing my own bugs since 2019<br>💯 Favorite Tech-Stack: Storyblok + <img src="https://cdn.simpleicons.org/astro/FF5D01" height="12" alt="astro logo"  />
-  <img width="4" /> Astro<br>🎯 Goals: Storyblok MVP Builder<br>🎲 Fun fact: 6 hours of coding can save you 10 minutes of reading documentation.</p>
+  <img width="4" />Astro<br>🎯 Goals: Storyblok MVP Builder<br>🎲 Fun fact: 6 hours of coding can save you 10 minutes of reading documentation.</p>
 
 ###
 
