@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Fixing my own bugs since 2019<br>💯 Favorite Tech-Stack: Storyblok + Astro<br>🎯 Goals: Storyblok MVP Builder<br>🎲 Fun fact: 6 hours of coding can save you 10 minutes of reading documentation.</p>
+<p align="left">✨ Fixing my own bugs since 2019<br>💯 Favorite Tech-Stack: Storyblok + Astro<br>🎯 Goals: Storyblok MVP Builder<br>🎲 Fun fact: 6 hours of coding can save you from 10 minutes of reading documentation.</p>
 
 ###
 
