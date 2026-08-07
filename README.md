@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Florian and I'm an Apprentice Web Developer from Germany.</p>
+<p align="left">My name is Florian and I'm a Junior Web Developer from Germany.</p>
 
 ###
 
